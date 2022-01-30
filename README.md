@@ -1,3 +1,0 @@
-# DS-AI_praktikum
-Bu yerga Data Science va Artificial Intelegence Praktikum bo'yicha bajarilgan amaliyotlar joylab boriladi
-...
